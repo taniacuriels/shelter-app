@@ -1,0 +1,7 @@
+{
+  "name": "shelter-app",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
